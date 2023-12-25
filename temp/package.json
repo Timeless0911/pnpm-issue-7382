@@ -1,0 +1,11 @@
+{
+  "name": "temp-pkg-json",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Auto generated",
+  "pnpm": {
+    "overrides": {
+      "is-positive": "1"
+    }
+  }
+}

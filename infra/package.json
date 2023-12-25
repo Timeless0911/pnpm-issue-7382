@@ -1,0 +1,12 @@
+{
+  "name": "infra",
+  "version": "0.0.0",
+  "pnpm": {
+    "overrides": {
+      "is-positive": "1"
+    }
+  },
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
